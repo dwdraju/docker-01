@@ -1,0 +1,13 @@
+version: '3'
+services:
+  django_docker:
+    container_name: django_docker
+    build: .
+    ports:
+      - "8000:8000"
+    command: "python3 manage.py runserver 0.0.0.0:8000"
+    environment:
+      - APP_ENV=dev
+    volumes:
+      - ./build:/build
+      - ./:/application
