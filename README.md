@@ -26,3 +26,5 @@ docker-compose up -d
 * [Play with Docker](https://www.docker.com/play-with-docker/)
 * [Getting Started with Docker](https://dockerlabs.collabnix.com/)
 * [Docker 101 Workshop | IBM](https://ibm.github.io/docker101/lab-0/)
+
+[Discussion Doc](https://docs.google.com/document/d/1BYUNaqsBIXl4EYbecfl5dq0V8V5g9O4DACec2YKzlJE/edit)
